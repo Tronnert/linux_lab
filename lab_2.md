@@ -1,3 +1,7 @@
+#### Вторая часть лабы
+
+[lab2.game-death.ru](lab2.game-death.ru)
+
 Серты минцифры:
 ```
 [root@ct2 ~]# curl -Iv https://ngw.devices.sberbank.ru:9443
